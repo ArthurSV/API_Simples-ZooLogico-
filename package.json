@@ -1,0 +1,16 @@
+{
+  "name": "prova_teste",
+  "version": "1.0.0",
+  "description": "revisao p_prova",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "arthur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
